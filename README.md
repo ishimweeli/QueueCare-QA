@@ -159,11 +159,7 @@ Plain HTML + JavaScript is completely fine. Other options:
 
 ## Deliverables
 
-Submit everything in a single repository or ZIP archive:
 
-- [ ] Application source code (backend + frontend if applicable)
-- [ ] API automation test files
-- [ ] UI automation test files
 - [ ] `README.md` — instructions to install, run, and test everything from scratch
 - [ ] `TEST_REPORT.md` — your written test report
 
